@@ -22,6 +22,7 @@ brew install \
   eza \
   fd \
   fzf \
+  gtop \
   htop \
   node \
   ollama \

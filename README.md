@@ -30,7 +30,7 @@ A single-script terminal setup for a new Mac. Run it once and get the exact same
 | `fzf` | Fuzzy finder |
 | `zoxide` | Smarter `cd` that learns your dirs |
 | `atuin` | Shell history search (replaces Ctrl+R) |
-| `btop` / `htop` / `bottom` | System monitors |
+| `btop` / `htop` / `bottom` / `gtop` | System monitors |
 | `node` | Node.js runtime |
 | `python@3.14` | Python runtime |
 | `ollama` | Run LLMs locally |
