@@ -27,6 +27,7 @@ brew install \
   htop \
   node \
   ollama \
+  anomalyco/tap/opencode \
   python@3.14 \
   ripgrep \
   zoxide

@@ -35,6 +35,7 @@ A single-script terminal setup for a new Mac. Run it once and get the exact same
 | `node` | Node.js runtime |
 | `python@3.14` | Python runtime |
 | `ollama` | Run LLMs locally |
+| `opencode` | AI coding agent for the terminal (`anomalyco/tap/opencode`) |
 
 ### GUI apps (via Homebrew Cask)
 - AltTab (Windows-style alt-tab switcher)
