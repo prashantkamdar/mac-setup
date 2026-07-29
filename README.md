@@ -28,6 +28,7 @@ A single-script terminal setup for a new Mac. Run it once and get the exact same
 | `fd` | Better `find` |
 | `ripgrep` | Better `grep` |
 | `fzf` | Fuzzy finder |
+| `glow` | Markdown viewer in the terminal |
 | `zoxide` | Smarter `cd` that learns your dirs |
 | `atuin` | Shell history search (replaces Ctrl+R) |
 | `btop` / `htop` / `bottom` / `gtop` | System monitors |

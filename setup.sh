@@ -22,6 +22,7 @@ brew install \
   eza \
   fd \
   fzf \
+  glow \
   gtop \
   htop \
   node \
