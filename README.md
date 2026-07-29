@@ -40,6 +40,8 @@ A single-script terminal setup for a new Mac. Run it once and get the exact same
 - AltTab (Windows-style alt-tab switcher)
 - Cursor (AI editor — installed via cask)
 - Cursor CLI (installed via `curl https://cursor.com/install`)
+- Draw Things (local AI image generation)
+- Firefox
 - ForkLift (Finder replacement / file transfer)
 - iTerm2
 - Visual Studio Code

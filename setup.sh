@@ -35,6 +35,8 @@ echo "\n=== 3. Install GUI apps via Homebrew Cask ===\n"
 brew install --cask \
   alt-tab \
   cursor \
+  draw-things \
+  firefox \
   font-jetbrains-mono-nerd-font \
   font-meslo-lg-nerd-font \
   forklift \
